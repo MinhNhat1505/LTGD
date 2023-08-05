@@ -1,8 +1,8 @@
 # LTGD
 
-#Bài chương 1(chưa làm)
+# Bài chương 1(chưa làm)
 
-#Bài chương 2:
+# Bài chương 2:
   +Simple Calculator: 
   
   ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/fd2fae41-734f-4d46-80ee-0b99ad5e738a)
@@ -19,9 +19,9 @@
 
   ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/83d9680e-19fe-4d82-b67b-f62100717985)
 
-#Chương 3(chưa làm)
+# Chương 3(chưa làm)
 
-#Chương 4:
+# Chương 4:
 
   +ComboListBox
 
