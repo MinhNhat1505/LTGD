@@ -1,0 +1,14 @@
+D:\workspace\LTGD\TH\Chuong2\bin\Debug\Chuong2.exe.config
+D:\workspace\LTGD\TH\Chuong2\bin\Debug\Chuong2.exe
+D:\workspace\LTGD\TH\Chuong2\bin\Debug\Chuong2.pdb
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.csproj.AssemblyReference.cache
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.csproj.SuggestedBindingRedirects.cache
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.ChuyenMaAscii.resources
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.Properties.Resources.resources
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.csproj.GenerateResource.cache
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.csproj.CoreCompileInputs.cache
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.exe
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.pdb
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.GiaiPhuongTrinhBac2.resources
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.Random_Number.resources
+D:\workspace\LTGD\TH\Chuong2\obj\Debug\Chuong2.SimpleCalculator.resources

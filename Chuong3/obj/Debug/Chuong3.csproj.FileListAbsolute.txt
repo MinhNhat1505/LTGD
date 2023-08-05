@@ -1,0 +1,12 @@
+D:\workspace\LTGD\TH\Chuong3\bin\Debug\Chuong3.exe.config
+D:\workspace\LTGD\TH\Chuong3\bin\Debug\Chuong3.exe
+D:\workspace\LTGD\TH\Chuong3\bin\Debug\Chuong3.pdb
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.csproj.AssemblyReference.cache
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.csproj.SuggestedBindingRedirects.cache
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\PhepToanPhanSo.PhepTinhPhanSo.resources
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.Properties.Resources.resources
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.csproj.GenerateResource.cache
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.csproj.CoreCompileInputs.cache
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.exe
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.pdb
+D:\workspace\LTGD\TH\Chuong3\obj\Debug\Chuong3.SinhPhanSoNgauNhien.resources
