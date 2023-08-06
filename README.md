@@ -3,28 +3,32 @@
 # Bài chương 1(chưa làm)
 
 # Bài chương 2:
-  +Simple Calculator: 
+  ## Simple Calculator: 
   
-  ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/fd2fae41-734f-4d46-80ee-0b99ad5e738a)
+  ![SimpleCalculator!](./images/C2_SimpleCalculator.png)
 
-  +Chuyển mã ascii
+  ## Chuyển mã ascii
   
-  ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/d4e909e0-43e1-4e1f-9238-21a585715cfb)
+  ![ASCII](./images/C2_ASCII.png)
 
-  +Giải phương trình bậc 2
+  ## Giải phương trình bậc 2
 
-  ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/244eed31-496d-4e4c-b14f-2f6030881fde)
+  ![image](./images/C2_PTB2.png)
 
-  +Random number
+  ## Random number
 
-  ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/83d9680e-19fe-4d82-b67b-f62100717985)
+  ![RandomNumber](./images/C3_RandomFraction.png)
 
-# Chương 3(chưa làm)
+# Chương 3
+
+## Random Fraction
+
+![RandomFraction](./images/C3_RandomFraction.png)
 
 # Chương 4:
 
-  +ComboListBox
+  ## ComboListBox
 
-  ![image](https://github.com/MinhNhat1505/LTGD/assets/93303211/2f3e67e5-9121-4361-951d-19a20f0bc223)
+  ![ComboListBox](./images/C4_ComboListBox.png)
 
 
