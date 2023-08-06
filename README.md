@@ -5,16 +5,16 @@
 [Chương1](#bài-chương-1)
 
 [Chương2](#bài-chương-2)
-    <space><space>1. [Simple Calculator](#simple-calculator)
-    <space><space>2. [ASCII Transform](#chuyển-mã-ascii)
-    <space><space>3. [Pt bậc 2](#giải-phương-trình-bậc-2)
-    <space><space>4. [Random Number](#random-number)
+    - [1.Simple Calculator](#simple-calculator)
+    - [2.ASCII Transform](#chuyển-mã-ascii)
+    - [3.Pt bậc 2](#giải-phương-trình-bậc-2)
+    - [4.Random Number](#random-number)
     
 [Chương3](#bài-chương-3)
-    <space><space>1. [Random Fraction](#random-fraction)
+    - [1.Random Fraction](#random-fraction)
 
 [Chương4](#bài-chương-4)
-    <space><space>1. [ComboListBox](#combolistbox)
+    - [1.ComboListBox](#combolistbox)
 
 
 # Bài chương 1
