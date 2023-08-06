@@ -17,7 +17,7 @@
 
   ## Random number
 
-  ![RandomNumber](./images/C3_RandomFraction.png)
+  ![RandomNumber](./images/C2_Random_Number.png)
 
 # Chương 3
 
