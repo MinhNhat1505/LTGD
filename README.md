@@ -1,6 +1,21 @@
 # LTGD
 
-# Bài chương 1(chưa làm)
+### Mục lục
+
+[Chương1](#bài-chương-1)
+
+[Chương2](#bài-chương-2)
+    [Simple Calculator](#simple-calculator)
+    [ASCII Transform](#chuyển-mã-ascii)
+    [Pt bậc 2](#giải-phương-trình-bậc-2)
+    [Random Number](#random-number)
+[Chương3](#bài-chương-3)
+    [Random Fraction](#random-fraction)
+[Chương4](#bài-chương-4)
+    [ComboListBox](#combolistbox)
+
+
+# Bài chương 1
 
 # Bài chương 2:
   ## Simple Calculator: 
@@ -19,13 +34,13 @@
 
   ![RandomNumber](./images/C2_Random_Number.png)
 
-# Chương 3
+# Bài chương 3
 
 ## Random Fraction
 
 ![RandomFraction](./images/C3_RandomFraction.png)
 
-# Chương 4:
+# Bài chương 4:
 
   ## ComboListBox
 
