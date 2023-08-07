@@ -12,8 +12,6 @@ namespace Chuong4
 {
     public partial class FontEditor : Form
     {
-        private FontStyle newFontStyle = FontStyle.Regular;
-
         //thiết lập màu cơ bản là màu đen
         int rgb1 = 0;
         int rgb2 = 0;
@@ -77,7 +75,11 @@ namespace Chuong4
 
             //lấy size font mà người dùng chọn
             float newSizeFont = float.Parse(comboBoxSizeFont.SelectedItem.ToString());
-            richTextBoxContent.SelectionFont = new Font(richTextBoxContent.SelectionFont.ToString(), newSizeFont,newFontStyle);
+            //lấy font style mà văn bản hiện có
+            FontStyle currentFontStyle = richTextBoxContent.SelectionFont.Style;
+            //lấy tên font
+            String currentFont = richTextBoxContent.SelectionFont.FontFamily.Name;
+            richTextBoxContent.SelectionFont = new Font(currentFont, newSizeFont,currentFontStyle);
 
 
         }
