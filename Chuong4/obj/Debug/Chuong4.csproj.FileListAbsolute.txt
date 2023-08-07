@@ -9,3 +9,4 @@ D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.csproj.GenerateResource.cache
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.csproj.CoreCompileInputs.cache
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.exe
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.pdb
+D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.FontEditor.resources

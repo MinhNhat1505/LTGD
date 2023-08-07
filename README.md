@@ -15,6 +15,7 @@
 
 [Chương4](#bài-chương-4)
 - [1.ComboListBox](#combolistbox)
+- [2.FontEditor](#fonteditor)
 
 
 # Bài chương 1
@@ -47,5 +48,9 @@
   ## ComboListBox
 
   ![ComboListBox](./images/C4_ComboListBox.png)
+
+  ## FontEditor
+
+  ![FontEditor](./images/C4_FontEditor.png)
 
 
