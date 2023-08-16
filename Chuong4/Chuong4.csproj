@@ -52,6 +52,12 @@
     <Compile Include="ComboListBox.Designer.cs">
       <DependentUpon>ComboListBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="CommonDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonDialog.Designer.cs">
+      <DependentUpon>CommonDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="FontEditor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ComboListBox.resx">
       <DependentUpon>ComboListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonDialog.resx">
+      <DependentUpon>CommonDialog.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FontEditor.resx">
       <DependentUpon>FontEditor.cs</DependentUpon>
