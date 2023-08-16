@@ -16,6 +16,7 @@
 [Chương4](#bài-chương-4)
 - [1.ComboListBox](#combolistbox)
 - [2.FontEditor](#fonteditor)
+- [3.CommonDialog](#commondialog)
 
 
 # Bài chương 1
@@ -52,5 +53,8 @@
   ## FontEditor
 
   ![FontEditor](./images/C4_FontEditor.png)
+  
+  ## CommonDialog
+  ![CommonDialog](./images/C4_CommonDialog.png)
 
 
