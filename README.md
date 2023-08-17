@@ -17,6 +17,7 @@
 - [1.ComboListBox](#combolistbox)
 - [2.FontEditor](#fonteditor)
 - [3.CommonDialog](#commondialog)
+- [4.MyPhoto](#myphoto)
 
 
 # Bài chương 1
@@ -56,5 +57,8 @@
   
   ## CommonDialog
   ![CommonDialog](./images/C4_CommonDialog.png)
+
+  ## MyPhoto
+  ![MyPhoto](./images/C4_MyPhoto.png)
 
 
