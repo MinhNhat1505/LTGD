@@ -19,6 +19,8 @@
 - [3.CommonDialog](#commondialog)
 - [4.MyPhoto](#myphoto)
 
+[Chương5]()
+
 
 # Bài chương 1
 
@@ -61,4 +63,9 @@
   ## MyPhoto
   ![MyPhoto](./images/C4_MyPhoto.png)
 
+# Bài chương 5:
 
+  ## Ball Game
+  ![BallGame](./images/C5_BallGame.png)
+
+  **Lưu ý** : Nhấn **S** để bắt đầu chơi và nhấn **phím mũi tên** hoặc **giữ chuột trái** vào thanh cross bar để di chuyển
