@@ -1,0 +1,11 @@
+D:\workspace\LTGD\TH\Chuong5\bin\Debug\Chuong5.exe.config
+D:\workspace\LTGD\TH\Chuong5\bin\Debug\Chuong5.exe
+D:\workspace\LTGD\TH\Chuong5\bin\Debug\Chuong5.pdb
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.csproj.AssemblyReference.cache
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.csproj.SuggestedBindingRedirects.cache
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.BallGame.resources
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.Properties.Resources.resources
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.csproj.GenerateResource.cache
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.csproj.CoreCompileInputs.cache
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.exe
+D:\workspace\LTGD\TH\Chuong5\obj\Debug\Chuong5.pdb
