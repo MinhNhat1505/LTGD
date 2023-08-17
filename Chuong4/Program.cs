@@ -16,7 +16,7 @@ namespace Chuong4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CommonDialog());
+            Application.Run(new MyPhoto_Main());
         }
     }
 }

@@ -11,3 +11,5 @@ D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.exe
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.pdb
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.FontEditor.resources
 D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.CommonDialog.resources
+D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.MyPhoto_Main.resources
+D:\workspace\LTGD\TH\Chuong4\obj\Debug\Chuong4.MyPhoto_SubMain.resources

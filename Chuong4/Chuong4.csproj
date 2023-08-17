@@ -64,6 +64,18 @@
     <Compile Include="FontEditor.Designer.cs">
       <DependentUpon>FontEditor.cs</DependentUpon>
     </Compile>
+    <Compile Include="MyPhoto_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyPhoto_Main.Designer.cs">
+      <DependentUpon>MyPhoto_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyPhoto_SubMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyPhoto_SubMain.Designer.cs">
+      <DependentUpon>MyPhoto_SubMain.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ComboListBox.resx">
@@ -74,6 +86,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FontEditor.resx">
       <DependentUpon>FontEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyPhoto_Main.resx">
+      <DependentUpon>MyPhoto_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyPhoto_SubMain.resx">
+      <DependentUpon>MyPhoto_SubMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
