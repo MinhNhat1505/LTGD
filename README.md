@@ -22,7 +22,7 @@
 [Chương5](#bài-chương-5)
 - [BallGame](#ball-game)
 
-[Chuong6]
+[Chuong6](#bài-chương-6)
 
 
 # Bài chương 1
