@@ -23,6 +23,7 @@
 - [BallGame](#ball-game)
 
 [Chuong6](#bài-chương-6)
+- [1.RandomArray](#random-array)
 
 
 # Bài chương 1
