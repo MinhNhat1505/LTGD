@@ -1,4 +1,4 @@
-# LTGD
+# LTGD(BT thêm)
 
 ### Mục lục
 
@@ -21,6 +21,8 @@
 
 [Chương5](#bài-chương-5)
 - [BallGame](#ball-game)
+
+[Chuong6]
 
 
 # Bài chương 1
@@ -70,3 +72,8 @@
   ![BallGame](./images/C5_BallGame.png)
 
   **Lưu ý** : Nhấn **S** để bắt đầu chơi và nhấn **phím mũi tên** hoặc **giữ chuột trái** vào thanh cross bar để di chuyển
+
+  # Bài chương 6
+   
+   ## Random Array
+   ![RandomArray](./images/C6_RandomArray.png)
